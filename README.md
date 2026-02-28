@@ -20,6 +20,7 @@ Este espacio sirve como bitácora de mis prácticas en ciencia de datos, donde a
 | `compra_Udemy.ipynb` | Limpieza inicial y estadísticas descriptivas de un dataset de ventas. |
 | `Elon_vs_Gate.ipynbipynb` | Creación de gráficos interactivos y comparativos. |
 | `Tiendacomida_Graficas.ipynb` | Limpieza inicial y estadísticas descriptivas de un dataset de ventas con Graficas. |
+| `2016-us-election.ipynb` | Manipulacion de Datos a travez de Sql y grafica usada para mostrar un resultado final. |
 
 ## 📈 Lo que he aprendido
 - [x] Importación de datos desde archivos CSV, Excel.
