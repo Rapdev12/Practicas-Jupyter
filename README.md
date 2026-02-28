@@ -26,7 +26,7 @@ Este espacio sirve como bitácora de mis prácticas en ciencia de datos, donde a
 - [x] Importación de datos desde archivos CSV, Excel.
 - [x] Análisis Exploratorio de Datos (EDA).
 - [x] Storytelling con datos a través de gráficos claros.
-- [ ] Implementación de modelos predictivos (Próximamente).
+- [x] Uso de Bases de Datos SQL.
 
 ---
 
